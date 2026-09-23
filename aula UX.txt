@@ -1,0 +1,64 @@
+site: G1
+fonte: "glbOpenSans","Open Sans",Arial,Inter,-apple-system,"system-ui",Roboto,"Helvetica Neue",Helvetica,Noto,Ubuntu,"Segoe UI",sans-serif
+tamanho: 1rem
+cor: #171717
+SW registered:  debate-para-senador-…bertura-ao-vivo:188 [show-template-cobertura js-top 1]: erro em `delete window.SETTINGS.BASTIAN.PUSHSTREAM_HOST` TypeError: Cannot convert undefined or null to object at debate-para-senador-…tura-ao-vivo:186:28
+
+Ordem	   Elemento	       Tamanho	        Cor	              Peso
+1	Título principal    Grande (ex: 3rem) 0	currentColor Branco	Alto
+2	Subtítulo	    Médio (ex: 1.5rem)  currentColor Branco  	Médio
+3	Botão de ação	    align-items: center;
+        		    font-size: 15px;
+        		    letter-spacing: -.3px;
+       			    line-height: 22px;
+        		    margin-left: 0	vermelho e branco  	Alto
+4	Texto descritivo    Normal (1rem)	Cinza escuro	  	Baixo
+5	Rodapé	            Pequeno (0.875rem)	Cinza claro	  	Muito baixo
+font-size: 0;
+
+
+Uber para animais
+1	Pra quem é?	 
+Pessoas que têm animais domésticos, inclusive aves.
+2	Qual o objetivo?	
+Transportar os animais em segurança.
+3	O que diferencia?	
+A rapidez e a confiança. O carro já seria preparado com uma capa para evitar sujeira, desobrigando o tutor dessa parte. E pode levar o pet com ou sem o dono.
+4	O que o visitante deve fazer?
+Buscar um motorista perto da sua região que esteja disponível.	
+5	Qual o conteúdo essencial?	
+Pesquisa por região, horário, e que animal deseja transportar.
+6	Tem referências?	
+O Uber pet, que é mais conhecido por recusar as corridas e não oferece atendimento satisfatório.
+7	Qual o prazo?
+A pessoa pode chamar na hora ou agendar a corrida.	
+8	Tem restrições?	
+Seria um app simples, que não ocupe muita memória.
+9	Como vai ser atualizado?
+Com depoimentos e notas dos usuários.
+10	Sucesso é o quê?	
+As pessoas lembrarem primeiro desse site/app do q o Uber.
+
+
+
+Acompanhante/motorista para idosos 
+11	Pra quem é?	 
+Idosos sozinhos, com ou sem restrição de mobilidade.
+12	Qual o objetivo?	
+Transportar idosos em segurança e acompanhar em consultas ou exames.
+13	O que diferencia?	
+A rapidez e a confiança. O carro já seria preparado caso a pessoa use cadeira de rodas. E pode levar o idoso sozinho ou com algum familiar ou conhecido.
+14	O que o visitante deve fazer?
+Buscar alguém perto da sua região que esteja disponível.	
+15	Qual o conteúdo essencial?	
+Interface simplificada, com ícones maiores. É possível pesquisar por região, horário, e para quantas pessoas precisa de transporte ou companhia.
+16	Tem referências?	
+O Uber sênior, que é para uso individual. Os serviços de acompanhantes normalmente são contratados em sites de cuidadores e raramente incluem carro.
+17	Qual o prazo?
+A pessoa pode chamar na hora ou agendar a corrida.	
+18	Tem restrições?	
+Seria um app com interface simples, que não ocupe muita memória.
+19	Como vai ser atualizado?
+Com depoimentos e notas dos usuários.
+20	Sucesso é o quê?	
+As pessoas lembrarem primeiro desse site/app do q outras empresas.
